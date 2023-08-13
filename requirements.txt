@@ -6,6 +6,7 @@ matplotlib
 scikit-learn
 notebook
 dill
+notebook
 Flask
 DVC
 -e .
